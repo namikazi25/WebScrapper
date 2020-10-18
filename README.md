@@ -1,5 +1,6 @@
 # WebScrappers
-##webscrapper.py
+
+## webscrapper.py
 webscrapper.py for scraping GPU info from Newegg and converting them into a csv file
 
 ## Web_Scrapping.ipynb
